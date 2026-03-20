@@ -46,8 +46,8 @@ Target Variable:
 ## 🔄 Workflow
 1. Data Cleaning & Preprocessing
 2. Handling Missing Values
-3. Encoding Categorical Features (OneHotEncoder)
-4. Feature Scaling (if applied)
+3. Encoding Categorical Features (LabelEncoder and OneHotEncoder)
+4. Feature Scaling 
 5. Model Training
 6. Model Evaluation & Comparison
 
@@ -72,7 +72,7 @@ The following machine learning algorithms were implemented and compared:
 ## 📊 Evaluation Metrics
 - Accuracy
 - Confusion Matrix
-- Precision & Recall (if used)
+- Precision & Recall 
 
 ---
 
